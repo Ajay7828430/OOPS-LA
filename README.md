@@ -84,4 +84,4 @@ The project includes 9 JUnit test cases covering calculator operations and input
 
 ## Author
 
-Aneesh
+Aneesh Gowda N, Ajay MS, Charan Reddy MV
